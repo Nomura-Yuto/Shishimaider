@@ -19,10 +19,11 @@
   * ソナー
   * トルネード
   * 範囲攻撃
+- クールダウン管理クラス
 - サウンドマネージャー
 - その他バグの修正  
-  
 
+  
 ## リンク
-[GogleDrive](https://drive.google.com/drive/folders/1ZcMdcidCS7NObvpI_rjWj4AW762elIkZ)  
-[作品動画](https://drive.google.com/file/d/1-sInH0FL5OLVrGuQnZsNEzsbpjS2V1hT/view?usp=drive_link)
+[GogleDrive](https://drive.google.com/drive/folders/1aiIENc0mqv7RLX5JyI92BTAZwYk_3Z3I)  
+[作品動画](https://drive.google.com/file/d/1qmCYt8Kp1v8JW1utGo8ZhPQ2zvvcSj51/view?usp=drive_link)
